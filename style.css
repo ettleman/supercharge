@@ -684,3 +684,11 @@ footer small {
 		margin-left: 10px;
 	}
 }
+
+$colors: (
+  primary:    #fff,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222
+);
